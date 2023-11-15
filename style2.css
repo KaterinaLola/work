@@ -1,0 +1,57 @@
+.foto {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-image: url('fon\ 12.jpg'); 
+    
+}
+
+.primer img {
+    width: 31%;
+    border: 5px solid rgb(25, 10, 156);
+    padding-left: 20px;
+   justify-content: space-between;
+}
+.primer h1{
+    text-align: left;
+    color: rgb(66, 9, 223);
+    font-size: 50px;
+}
+.menu {
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: right;
+    margin-right: 20px;
+    background-image: url('fon\ 2.jpg');
+    
+   
+
+}
+.menu a {
+    color: white;
+    border: 5px solid rgb(21, 19, 148);
+    font-size: 25px;
+    background-color: blue;
+}
+
+.one h1{
+  color: rgb(16, 5, 172);
+  font-size: 35px;
+}
+
+.one ul{
+    font-size: 25px;
+}
+
+
+.tabli {
+    width: 100%;
+    padding-left: 25px;
+}
+td {
+    border: 3px solid rgb(4, 26, 121);
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

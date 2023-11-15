@@ -1,0 +1,18 @@
+.kontakti a {
+    flex-direction: column;
+   
+}
+.menu a {
+    color: white;
+    border: 5px solid rgb(21, 19, 148);
+    font-size: 25px;
+    background-color: blue;
+    margin-left: 1000px;
+}
+.zag h1{
+    color: blue;
+    text-align: center;
+}
+.zag p{
+    text-align: justify;
+}
